@@ -1,1 +1,1 @@
-add info to PR trigger in jenkin
+add  to PR trigger in jenkin
